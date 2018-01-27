@@ -1,3 +1,21 @@
+
 .search {
+    display: block;
+    width: 400px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.glogo {
+    display: block;
     margin: 0 auto;
+}
+
+.searchbar {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.buttons {
 }
