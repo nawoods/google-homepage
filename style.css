@@ -2,9 +2,29 @@ body {
     font-family: 'Arial', 'Helvetica', sans-serif;
 }
 
+.topbar {
+    height: 30px;
+}
+
 .topright img {
     width: 20px;
     height: 20px;
+}
+
+.topleft {
+    float: left;
+    font-size: 13px;
+}
+
+.topright {
+    float: right;
+    font-size: 13px;
+}
+
+.topbar a {
+    display: block;
+    position: absolute;
+    top: 10px;
 }
 
 .search {
